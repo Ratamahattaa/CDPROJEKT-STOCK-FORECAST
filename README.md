@@ -17,7 +17,7 @@ The workflow includes data preparation, ARIMA modeling, forecasting, technical i
 ## Sample Results
 
 ![Close Price](charts/cdprojekt_close_price.png)  
-![Forecast](charts/charts/cdprojekt_ema.png)
+![EMA](charts/cdprojekt_ema.png)
 
 ---
 
